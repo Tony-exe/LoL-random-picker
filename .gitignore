@@ -12,7 +12,7 @@ venv/
 ENV/
 
 #VSCODE
-.vscode/
+
 
 # Distribution / packaging
 .Python
